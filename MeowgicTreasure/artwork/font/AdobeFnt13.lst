@@ -1,0 +1,47 @@
+%!Adobe-FontList 1.13
+%Locale:0x1009
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:OratorStd-Slanted
+FamilyName:Orator Std
+StyleName:Slanted
+FullName:Orator Std Slanted
+MenuName:Orator Std
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:A:\Dropbox (ET&C)\MeowgicTreasure (1)\artwork\Font\OratorStd-Slanted.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:35372
+FileModTime:1265310312
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:OratorStd
+FamilyName:Orator Std
+StyleName:Medium
+FullName:Orator Std Medium
+MenuName:Orator Std
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:A:\Dropbox (ET&C)\MeowgicTreasure (1)\artwork\Font\OratorStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:34024
+FileModTime:1265310312
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+%EndFont
+

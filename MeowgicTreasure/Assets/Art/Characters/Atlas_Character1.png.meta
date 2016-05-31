@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: f31e79ba35f68df44b36eb3878d6bbe5
+timeCreated: 1428886509
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player1_Idle_1
+    21300002: Player1_Walk_1
+    21300004: Player1_Walk_2
+    21300006: Player1_Walk_3
+    21300008: Player1_Jump_Up
+    21300010: Player1_Jump_Down
+    21300012: Player1_Ranged_1
+    21300014: Player1_Ranged_2
+    21300016: Player1_Melee_1
+    21300018: Player1_Win2
+    21300020: Player1_Lose_1
+    21300022: Player1_Win_1
+    21300024: Player1_Projectile_4
+    21300026: Player1_Projectile_1
+    21300028: Player1_Projectile_2
+    21300030: Player1_Projectile_3
+    21300032: Player1_Hurt_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player1_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 820
+        width: 100
+        height: 204
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player1_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 820
+        width: 102
+        height: 203
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player1_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 820
+        width: 101
+        height: 203
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player1_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 821
+        width: 102
+        height: 202
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player1_Jump_Up
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 609
+        width: 112
+        height: 199
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player1_Jump_Down
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 604
+        width: 109
+        height: 201
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player1_Ranged_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 402
+        width: 112
+        height: 200
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player1_Ranged_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 400
+        width: 114
+        height: 191
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player1_Melee_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 209
+        width: 115
+        height: 191
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player1_Win2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 4
+        width: 117
+        height: 201
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player1_Lose_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 5
+        width: 116
+        height: 170
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player1_Win_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 117
+        height: 201
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player1_Projectile_4
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 967
+        width: 78
+        height: 42
+      alignment: 9
+      pivot: {x: .699235976, y: .57848686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player1_Projectile_1
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 967
+        width: 91
+        height: 42
+      alignment: 9
+      pivot: {x: .727698028, y: .589699864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player1_Projectile_2
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 966
+        width: 82
+        height: 43
+      alignment: 9
+      pivot: {x: .718230486, y: .543807626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player1_Projectile_3
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 966
+        width: 85
+        height: 43
+      alignment: 9
+      pivot: {x: .71052891, y: .576663017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player1_Hurt_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 401
+        width: 116
+        height: 177
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

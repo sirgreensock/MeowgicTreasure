@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: dcda973ae9da84e37887fa6d227a25ee
+timeCreated: 1430094953
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: P4-Portrait
+    21300002: P3-Portrait
+    21300004: P2-Portrait
+    21300006: P1-Portrait
+    21300008: ScoreBar
+    21300010: Bar1_Fill
+    21300012: Bar1_Glow
+    21300014: Bar2_Fill
+    21300016: Bar2_Glow
+    21300018: Bar3_Fill
+    21300020: Bar3_Glow
+    21300022: Bar4_Fill
+    21300024: Bar4_Glow
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: P1-Portrait
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 902
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: P2-Portrait
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 902
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: P3-Portrait
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 780
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: P4-Portrait
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 780
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreBar
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 721
+        width: 242
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bar1_Fill
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 688
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 2, y: 0, z: 2, w: 0}
+    - name: Bar1_Glow
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 688
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bar2_Fill
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 688
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 2, y: 0, z: 2, w: 0}
+    - name: Bar2_Glow
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 688
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bar3_Fill
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 688
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 2, y: 0, z: 2, w: 0}
+    - name: Bar3_Glow
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 688
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bar4_Fill
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 688
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 2, y: 0, z: 2, w: 0}
+    - name: Bar4_Glow
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 688
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

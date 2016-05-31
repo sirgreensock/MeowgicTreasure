@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: ba93865ac23814e9bb13495e187c922e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Chest_Open
+    21300002: Chest_Closed
+    21300004: Chest_Active
+    21300006: Orb
+    21300008: Chest_Active_2
+    21300010: Chest_Active
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Chest_Open
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 839
+        width: 249
+        height: 117
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chest_Closed
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 839
+        width: 249
+        height: 182
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chest_Active
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 608
+        width: 288
+        height: 230
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orb
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 544
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chest_Active_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 603
+        width: 281
+        height: 234
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chest_Active
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 606
+        width: 289
+        height: 233
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

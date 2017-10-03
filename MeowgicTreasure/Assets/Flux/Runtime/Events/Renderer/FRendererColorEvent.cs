@@ -47,7 +47,7 @@ namespace Flux
 				}
 				else
 				{
-					_matPropertyBlock.AddColor( PropertyName, color );
+					_matPropertyBlock.SetColor( PropertyName, color );
 				}
 			}
 		}

@@ -1,0 +1,47 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:ab02a8c7be645bb47871bcdf637973fc:2769e64758c8f9b51c642d021d6c239f:a3b5bd368e297bf20127ed6d3dd4cfe5$
+#
+:format=40300
+:texture=AdventureCat_Atlas.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+
+BlueCat_Hit;6;1840;225;202; 0.5;0; 0;0;0;0
+BlueCat_idle;233;1840;225;202; 0.5;0; 0;0;0;0
+BlueCat_Jump01;460;1840;225;202; 0.5;0; 0;0;0;0
+BlueCat_Jump02;687;1840;225;202; 0.5;0; 0;0;0;0
+BlueCat_Lose00a;914;1840;225;202; 0.5;0; 0;0;0;0
+BlueCat_Lose00b;1141;1840;225;202; 0.5;0; 0;0;0;0
+BlueCat_Lose01;1368;1840;225;202; 0.5;0; 0;0;0;0
+BlueCat_Lose02;1595;1840;225;202; 0.5;0; 0;0;0;0
+BlueCat_Lose03;6;1636;225;202; 0.5;0; 0;0;0;0
+BlueCat_Lose04;233;1636;225;202; 0.5;0; 0;0;0;0
+BlueCat_Melee1;460;1636;225;202; 0.5;0; 0;0;0;0
+BlueCat_Melee2;687;1636;225;202; 0.5;0; 0;0;0;0
+BlueCat_Melee3;914;1636;225;202; 0.5;0; 0;0;0;0
+BLueCat_R-Attack-P01;1141;1793;96;45; 0.5;0.5; 0;0;0;0
+BLueCat_R-Attack-P02;1239;1793;96;45; 0.5;0.5; 0;0;0;0
+BLueCat_R-Attack-P03;1337;1793;96;45; 0.5;0.5; 0;0;0;0
+BLueCat_R-Attack-P04;1435;1793;96;45; 0.5;0.5; 0;0;0;0
+BlueCat_R-Attack01;1533;1636;225;202; 0.5;0; 0;0;0;0
+BlueCat_R-Attack02;1760;1636;225;202; 0.5;0; 0;0;0;0
+BlueCat_Results_Lose;6;1107;527;527; 0.5;0.5; 0;0;0;0
+BlueCat_Results_Win;535;784;647;850; 0.5;0.5; 0;0;0;0
+BlueCat_walk01;1184;1432;225;202; 0.5;0; 0;0;0;0
+BlueCat_walk02;1411;1432;225;202; 0.5;0; 0;0;0;0
+BlueCat_walk03;1638;1432;225;202; 0.5;0; 0;0;0;0
+BlueCat_walk04;6;580;225;202; 0.5;0; 0;0;0;0
+BlueCat_walk05;233;580;225;202; 0.5;0; 0;0;0;0
+BlueCat_walk06;460;580;225;202; 0.5;0; 0;0;0;0
+BlueCat_walk07;687;580;225;202; 0.5;0; 0;0;0;0
+BlueCat_walk08;914;580;225;202; 0.5;0; 0;0;0;0
+BlueCat_Win01;1141;580;225;202; 0.5;0; 0;0;0;0
+BlueCat_Win02;1368;580;225;202; 0.5;0; 0;0;0;0
+BlueCat_Win03;1595;580;225;202; 0.5;0; 0;0;0;0
+BlueCat_Win04;6;376;225;202; 0.5;0; 0;0;0;0

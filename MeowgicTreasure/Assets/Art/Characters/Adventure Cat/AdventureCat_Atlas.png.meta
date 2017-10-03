@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: ba55208fc56fcd540b4e53506eaefaac
+timeCreated: 1488380032
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BlueCat_Hit
+    21300002: BlueCat_idle
+    21300004: BlueCat_Jump01
+    21300006: BlueCat_Jump02
+    21300008: BlueCat_Lose00a
+    21300010: BlueCat_Lose00b
+    21300012: BlueCat_Lose01
+    21300014: BlueCat_Lose02
+    21300016: BlueCat_Lose03
+    21300018: BlueCat_Lose04
+    21300020: BlueCat_Melee1
+    21300022: BlueCat_Melee2
+    21300024: BlueCat_Melee3
+    21300026: BLueCat_R-Attack-P01
+    21300028: BLueCat_R-Attack-P02
+    21300030: BLueCat_R-Attack-P03
+    21300032: BLueCat_R-Attack-P04
+    21300034: BlueCat_R-Attack01
+    21300036: BlueCat_R-Attack02
+    21300038: BlueCat_Results_Lose
+    21300040: BlueCat_Results_Win
+    21300042: BlueCat_walk01
+    21300044: BlueCat_walk02
+    21300046: BlueCat_walk03
+    21300048: BlueCat_walk04
+    21300050: BlueCat_walk05
+    21300052: BlueCat_walk06
+    21300054: BlueCat_walk07
+    21300056: BlueCat_walk08
+    21300058: BlueCat_Win01
+    21300060: BlueCat_Win02
+    21300062: BlueCat_Win03
+    21300064: BlueCat_Win04
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueCat_Hit
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1840
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_idle
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1840
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_Jump01
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1840
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_Jump02
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1840
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_Lose00a
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1840
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_Lose00b
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1840
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_Lose01
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1840
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_Lose02
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1840
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_Lose03
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1636
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_Lose04
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1636
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_Melee1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1636
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_Melee2
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1636
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_Melee3
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1636
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BLueCat_R-Attack-P01
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1793
+        width: 96
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BLueCat_R-Attack-P02
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1793
+        width: 96
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BLueCat_R-Attack-P03
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1793
+        width: 96
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BLueCat_R-Attack-P04
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1793
+        width: 96
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_R-Attack01
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1636
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_R-Attack02
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1636
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_Results_Lose
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1107
+        width: 527
+        height: 527
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_Results_Win
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 784
+        width: 647
+        height: 850
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_walk01
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1432
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_walk02
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1432
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_walk03
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1432
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_walk04
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 580
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_walk05
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 580
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_walk06
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 580
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_walk07
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 580
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_walk08
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 580
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_Win01
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 580
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_Win02
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 580
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_Win03
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 580
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_Win04
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 376
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

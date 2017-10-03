@@ -14,7 +14,7 @@ namespace Flux
 #if UNITY_EDITOR
 			if( _texture != null )
 #endif
-				_matPropertyBlock.AddTexture( PropertyName, _texture );
+				_matPropertyBlock.SetTexture( PropertyName, _texture );
 		}
 	}
 }

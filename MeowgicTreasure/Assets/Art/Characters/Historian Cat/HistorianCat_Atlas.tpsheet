@@ -1,0 +1,44 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:f052ee94dffb18a7fed77d25ac7385b0:7e1266f017af36adedf3960e59d8dd72:7aa5992bde3a542cb2e752f503ed6fb1$
+#
+:format=40300
+:texture=HistorianCat_Atlas.png
+:size=1024x2048
+:pivotpoints=enabled
+:borders=disabled
+
+GreenCat_Hit;460;1228;225;202; 0.5;0; 0;0;0;0
+GreenCat_Idle1;687;1228;225;202; 0.5;0; 0;0;0;0
+GreenCat_Jump01;233;1228;225;202; 0.5;0; 0;0;0;0
+GreenCat_Jump02;6;1228;225;202; 0.5;0; 0;0;0;0
+GreenCat_Lose00a;6;1024;225;202; 0.5;0; 0;0;0;0
+GreenCat_Lose00b;6;1024;225;202; 0.5;0; 0;0;0;0
+GreenCat_Lose01;6;1024;225;202; 0.5;0; 0;0;0;0
+GreenCat_Lose02;6;1024;225;202; 0.5;0; 0;0;0;0
+GreenCat_Lose03;6;1024;225;202; 0.5;0; 0;0;0;0
+GreenCat_Lose04;6;1024;225;202; 0.5;0; 0;0;0;0
+GreenCat_Melee1;233;820;225;202; 0.5;0; 0;0;0;0
+GreenCat_Melee2;6;820;225;202; 0.5;0; 0;0;0;0
+GreenCat_Melee3;460;1024;225;202; 0.5;0; 0;0;0;0
+GreenCat_R-Attack-P01;104;1997;96;45; 0.5;0.5; 0;0;0;0
+GreenCat_R-Attack-P02;6;1997;96;45; 0.5;0.5; 0;0;0;0
+GreenCat_R-Attack-P03;202;1997;96;45; 0.5;0.5; 0;0;0;0
+GreenCat_R-Attack-P04;300;1997;96;45; 0.5;0.5; 0;0;0;0
+GreenCat_R-Attack01;687;1432;225;202; 0.5;0; 0;0;0;0
+GreenCat_R-Attack02;233;1024;225;202; 0.5;0; 0;0;0;0
+GreenCat_Results_Lose;460;515;507;507; 0.5;0.5; 0;0;0;0
+GreenCat_Walk01;625;1840;225;202; 0.5;0; 0;0;0;0
+GreenCat_Walk02;398;1840;225;202; 0.5;0; 0;0;0;0
+GreenCat_Walk03;6;1636;225;202; 0.5;0; 0;0;0;0
+GreenCat_Walk04;460;1636;225;202; 0.5;0; 0;0;0;0
+GreenCat_Walk05;233;1432;225;202; 0.5;0; 0;0;0;0
+GreenCat_Walk06;6;1432;225;202; 0.5;0; 0;0;0;0
+GreenCat_Walk07;460;1432;225;202; 0.5;0; 0;0;0;0
+GreenCat_Walk08;687;1636;225;202; 0.5;0; 0;0;0;0
+test/GreenCat_Jump01;233;1636;225;202; 0.5;0; 0;0;0;0
+test/GreenCat_Jump04;687;1024;225;202; 0.5;0; 0;0;0;0

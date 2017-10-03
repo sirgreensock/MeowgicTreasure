@@ -1,0 +1,27 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:7027608947c6e9b1571a7b412425e629:3a3863a96b0206c65c02e42764cad895:eba85fe60f92aae668fbbaf0b13b276b$
+#
+:format=40300
+:texture=Atlas_Scorebar.png
+:size=512x256
+:pivotpoints=enabled
+:borders=disabled
+
+ScoreBar;119;201;258;49; 0.5;0.5; 0;0;0;0
+ScoreBar_Blue_fill;492;221;11;29; 0.5;0.5; 0;0;0;0
+ScoreBar_Blue_gradient;119;170;18;29; 0.5;0.5; 0;0;0;0
+ScoreBar_Green_fill;492;190;11;29; 0.5;0.5; 0;0;0;0
+ScoreBar_Green_gradient;119;139;18;29; 0.5;0.5; 0;0;0;0
+ScoreBar_Orange_fill;492;159;11;29; 0.5;0.5; 0;0;0;0
+ScoreBar_Orange_gradient;139;170;18;29; 0.5;0.5; 0;0;0;0
+ScoreBar_portrait_Blue;6;137;111;113; 0.5;0.5; 0;0;0;0
+ScoreBar_portrait_Green;6;22;111;113; 0.5;0.5; 0;0;0;0
+ScoreBar_portrait_Orange;379;137;111;113; 0.5;0.5; 0;0;0;0
+ScoreBar_portrait_Purple;119;13;111;113; 0.5;0.5; 0;0;0;0
+ScoreBar_Purple_fill;492;128;11;29; 0.5;0.5; 0;0;0;0
+ScoreBar_Purple_gradient;139;139;18;29; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,812 @@
+fileFormatVersion: 2
+guid: 6ac7f4dd87bd97f4fb023eab79ae5696
+timeCreated: 1506889576
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DumbCat-Idle1
+    21300002: DumbCat-Idle2
+    21300004: DumbCat-Melee1
+    21300006: DumbCat-Melee2
+    21300008: DumbCat-Melee3
+    21300010: DumbCat-Walk1
+    21300012: DumbCat-Walk2
+    21300014: DumbCat-Walk3
+    21300016: DumbCat-Walk4
+    21300018: DumbCat-Walk5
+    21300020: DumbCat-Walk6
+    21300022: DumbCat-Walk7
+    21300024: DumbCat-Walk8
+    21300026: DumbCat_Hit
+    21300028: DumbCat_Jump01
+    21300030: DumbCat_Jump02
+    21300032: DumbCat_Lose00
+    21300034: DumbCat_Lose01
+    21300036: DumbCat_Lose02
+    21300038: DumbCat_Lose03
+    21300040: DumbCat_Lose04
+    21300042: DumbCat_Lose05
+    21300044: DumbCat_R-Attack-P01
+    21300046: DumbCat_R-Attack-P02
+    21300048: DumbCat_R-Attack-P03
+    21300050: DumbCat_R-Attack-P04
+    21300052: DumbCat_R-Attack01
+    21300054: DumbCat_R-Attack02
+    21300056: DumbCat_Results_Lose-01
+    21300058: DumbCat_Results_Win-01
+    21300060: DumbCat_Win-pre-01
+    21300062: DumbCat_Win-pre-02
+    21300064: DumbCat_Win-pre-03
+    21300066: DumbCat_Win-pre-04
+    21300068: DumbCat_Win-pre-05
+    21300070: DumbCat_Win-pre-06
+    21300072: DumbCat_Win-pre-07
+    21300074: DumbCat_Win-pre-08
+    21300076: DumbCat_Win-pre-09
+    21300078: DumbCat_Win00
+    21300080: DumbCat_Win01
+    21300082: DumbCat_Win02
+    21300084: DumbCat_Win03
+    21300086: DumbCat_Win04
+    21300088: DumbCat_Win05
+    21300090: DumbCat_Win06
+    21300092: DumbCat_Win07
+    21300094: DumbCat_Win08
+    21300096: DumbCat_Win09
+    21300098: DumbCat_Win10
+    21300100: DumbCat_Win11
+    21300102: DumbCat_Win12
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DumbCat-Idle1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1092
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat-Idle2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1296
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat-Melee1
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1296
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat-Melee2
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1296
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat-Melee3
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1296
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat-Walk1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1296
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat-Walk2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1296
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat-Walk3
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1506
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat-Walk4
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1506
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat-Walk5
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1506
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat-Walk6
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1506
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat-Walk7
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1296
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat-Walk8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1506
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Hit
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1092
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Jump01
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1092
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Jump02
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 888
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Lose00
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1092
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Lose01
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1092
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Lose02
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1296
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Lose03
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1092
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Lose04
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1092
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Lose05
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1092
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_R-Attack-P01
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1997
+        width: 96
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_R-Attack-P02
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1997
+        width: 96
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_R-Attack-P03
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1997
+        width: 96
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_R-Attack-P04
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1997
+        width: 96
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_R-Attack01
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1506
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_R-Attack02
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1506
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Results_Lose-01
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 563
+        width: 527
+        height: 527
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Results_Win-01
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 240
+        width: 647
+        height: 850
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win-pre-01
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1710
+        width: 195
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win-pre-02
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1710
+        width: 195
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win-pre-03
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1710
+        width: 195
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win-pre-04
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1710
+        width: 195
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win-pre-05
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1500
+        width: 195
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win-pre-06
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1500
+        width: 195
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win-pre-07
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1710
+        width: 195
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win-pre-08
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1710
+        width: 195
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win-pre-09
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1710
+        width: 195
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win00
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1920
+        width: 157
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win01
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1920
+        width: 157
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win02
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1920
+        width: 157
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win03
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1920
+        width: 157
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win04
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1920
+        width: 157
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win05
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1796
+        width: 157
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win06
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1796
+        width: 157
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win07
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1796
+        width: 157
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win08
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1920
+        width: 157
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win09
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1920
+        width: 157
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win10
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1920
+        width: 157
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win11
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1920
+        width: 157
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Win12
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1920
+        width: 157
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

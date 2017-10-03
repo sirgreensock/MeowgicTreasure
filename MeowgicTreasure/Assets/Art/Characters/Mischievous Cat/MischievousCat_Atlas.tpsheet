@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:27c749334379b2956c1f38abb2d42455:f1dafdca987812c9cc48c9661679da6a:42cc44b169f2520d84443b23344fbc7c$
+#
+:format=40300
+:texture=MischievousCat_Atlas.png
+:size=128x256
+:pivotpoints=enabled
+:borders=disabled
+
+PurpleCat_R-Attack-P01;6;205;96;45; 0.5;0.5; 0;0;0;0
+PurpleCat_R-Attack-P02;6;158;96;45; 0.5;0.5; 0;0;0;0
+PurpleCat_R-Attack-P03;6;111;95;45; 0.5;0.5; 0;0;0;0
+PurpleCat_R-Attack-P04;6;64;95;45; 0.5;0.5; 0;0;0;0

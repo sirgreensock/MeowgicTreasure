@@ -19,7 +19,7 @@ namespace Flux
 
 		protected override void ApplyProperty( float t )
 		{
-			_matPropertyBlock.AddFloat( PropertyName, _tween.GetValue(t) );
+			_matPropertyBlock.SetFloat( PropertyName, _tween.GetValue(t) );
 		}
 	}
 }

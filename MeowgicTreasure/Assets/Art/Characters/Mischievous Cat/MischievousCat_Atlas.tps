@@ -215,6 +215,32 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/PurpleCat_Results_Lose.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>132,132,264,264</rect>
+                <key>scale9Paddings</key>
+                <rect>132,132,264,264</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/PurpleCat_Results_Win.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>162,213,324,425</rect>
+                <key>scale9Paddings</key>
+                <rect>162,213,324,425</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
         </map>
         <key>fileList</key>
         <array>

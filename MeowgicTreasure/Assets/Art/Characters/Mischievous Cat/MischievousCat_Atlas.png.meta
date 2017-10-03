@@ -8,6 +8,8 @@ TextureImporter:
     21300002: PurpleCat_R-Attack-P02
     21300004: PurpleCat_R-Attack-P03
     21300006: PurpleCat_R-Attack-P04
+    21300008: PurpleCat_Results_Lose
+    21300010: PurpleCat_Results_Win
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -70,7 +72,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 6
-        y: 205
+        y: 1997
         width: 96
         height: 45
       alignment: 0
@@ -82,8 +84,8 @@ TextureImporter:
       name: PurpleCat_R-Attack-P02
       rect:
         serializedVersion: 2
-        x: 6
-        y: 158
+        x: 104
+        y: 1997
         width: 96
         height: 45
       alignment: 0
@@ -95,8 +97,8 @@ TextureImporter:
       name: PurpleCat_R-Attack-P03
       rect:
         serializedVersion: 2
-        x: 6
-        y: 111
+        x: 202
+        y: 1997
         width: 95
         height: 45
       alignment: 0
@@ -108,10 +110,36 @@ TextureImporter:
       name: PurpleCat_R-Attack-P04
       rect:
         serializedVersion: 2
-        x: 6
-        y: 64
+        x: 299
+        y: 1997
         width: 95
         height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat_Results_Lose
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1515
+        width: 527
+        height: 527
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat_Results_Win
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 663
+        width: 647
+        height: 850
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

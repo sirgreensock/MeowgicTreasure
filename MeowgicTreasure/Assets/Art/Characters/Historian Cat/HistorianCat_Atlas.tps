@@ -4,7 +4,7 @@
         <key>fileFormatVersion</key>
         <int>4</int>
         <key>texturePackerVersion</key>
-        <string>4.3.3</string>
+        <string>4.5.0</string>
         <key>fileName</key>
         <string>N:/Meowgic/MeowgicTreasure/MeowgicTreasure/Assets/Art/Characters/Historian Cat/HistorianCat_Atlas.tps</string>
         <key>autoSDSettings</key>
@@ -104,7 +104,7 @@
         <key>algorithmSettings</key>
         <struct type="AlgorithmSettings">
             <key>algorithm</key>
-            <enum type="AlgorithmSettings::AlgorithmId">Basic</enum>
+            <enum type="AlgorithmSettings::AlgorithmId">MaxRects</enum>
             <key>freeSizeMode</key>
             <enum type="AlgorithmSettings::AlgorithmFreeSizeMode">Best</enum>
             <key>sizeConstraints</key>
@@ -172,6 +172,8 @@
         <false/>
         <key>prependSmartFolderName</key>
         <false/>
+        <key>autodetectAnimations</key>
+        <true/>
         <key>globalSpriteSettings</key>
         <struct type="SpriteSettings">
             <key>scale</key>
@@ -220,6 +222,16 @@
             <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Walk06.png</key>
             <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Walk07.png</key>
             <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Walk08.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win00a.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win00b.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win00c.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win00d.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win00e.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win00f.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win01.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win02.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win03.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win04.png</key>
             <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/test/GreenCat_Jump01.png</key>
             <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/test/GreenCat_Jump04.png</key>
             <struct type="IndividualSpriteSettings">
@@ -234,6 +246,36 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Lose00c.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/test/GreenCat_Win00a-test.psd</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>56,51,113,101</rect>
+                <key>scale9Paddings</key>
+                <rect>56,51,113,101</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_R-Attack-P01.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_R-Attack-P02.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_R-Attack-P03.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_R-Attack-P04.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>24,11,48,23</rect>
+                <key>scale9Paddings</key>
+                <rect>24,11,48,23</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Results_Lose.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -244,6 +286,52 @@
                 <rect>127,127,254,254</rect>
                 <key>scale9Paddings</key>
                 <rect>127,127,254,254</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Results_Win.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>162,213,324,425</rect>
+                <key>scale9Paddings</key>
+                <rect>162,213,324,425</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost01-00A.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost01-00B.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost01-01.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost01-02.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost01-03.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost01-04.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost01-05.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost02-00A.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost02-00B.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost02-00c.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost02-01.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost02-02.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost02-03.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost02-04.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost03-00A.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost03-00B.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost03-00C.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost03-01.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost03-02.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost03-03.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Studious Cat/GreenCat_Win0-Ghost03-04.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,1</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>35,51,70,101</rect>
+                <key>scale9Paddings</key>
+                <rect>35,51,70,101</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>

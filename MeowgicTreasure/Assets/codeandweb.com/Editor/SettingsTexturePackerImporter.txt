@@ -5,6 +5,7 @@ tpsheetFileNames:
 - Assets/Art/Characters/Dumb Cat/DumbCat_Atlas.tpsheet
 - Assets/Art/Characters/Historian Cat/HistorianCat_Atlas.tpsheet
 - Assets/Art/Characters/Mischievous Cat/MischievousCat_Atlas.tpsheet
+- Assets/Art/Environments/Atlas_Orbs.tpsheet
 - Assets/Art/UI/Atlas_Scorebar.tpsheet
 - Assets/Art/UI/Letters/Atlas_Letters.tpsheet
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
@@ -13,10 +14,12 @@ textureFileNames:
 - Assets/Art/Characters/Dumb Cat/DumbCat_Atlas.png
 - Assets/Art/Characters/Historian Cat/HistorianCat_Atlas.png
 - Assets/Art/Characters/Mischievous Cat/MischievousCat_Atlas.png
+- Assets/Art/Environments/Atlas_Orbs.png
 - Assets/Art/UI/Atlas_Scorebar.png
 - Assets/Art/UI/Letters/Atlas_Letters.png
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
 normalmapFileNames:
+- 
 - 
 - 
 - 

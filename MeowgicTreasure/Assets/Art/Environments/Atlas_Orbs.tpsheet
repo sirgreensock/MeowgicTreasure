@@ -1,0 +1,22 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:344479964f9de1895065ed86dde0226b:8a16fb172c6c13eba9757c065eb05943:e1c705e25dcf3876c50044c8ff9a8415$
+#
+:format=40300
+:texture=Atlas_Orbs.png
+:size=256x256
+:pivotpoints=enabled
+:borders=disabled
+
+orb-2-1;1;191;63;64; 0.5;0.5; 0;0;0;0
+orb-2-2;1;125;63;64; 0.5;0.5; 0;0;0;0
+orb-2-3;1;59;63;64; 0.5;0.5; 0;0;0;0
+orb-2-4;66;191;63;64; 0.5;0.5; 0;0;0;0
+orb-2-appear-1;131;191;63;64; 0.5;0.5; 0;0;0;0
+orb-2-appear-2;66;125;63;64; 0.5;0.5; 0;0;0;0
+orb-2-appear-3;66;59;63;64; 0.5;0.5; 0;0;0;0
+orb-2-appear-4;131;125;63;64; 0.5;0.5; 0;0;0;0

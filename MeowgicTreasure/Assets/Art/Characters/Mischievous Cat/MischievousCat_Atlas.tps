@@ -86,7 +86,7 @@
         <key>textureFormat</key>
         <enum type="SettingsBase::TextureFormat">png</enum>
         <key>borderPadding</key>
-        <uint>5</uint>
+        <uint>2</uint>
         <key>maxTextureSize</key>
         <QSize>
             <key>width</key>
@@ -110,7 +110,7 @@
             <key>sizeConstraints</key>
             <enum type="AlgorithmSettings::SizeConstraints">POT</enum>
             <key>forceSquared</key>
-            <false/>
+            <true/>
             <key>maxRects</key>
             <struct type="AlgorithmMaxRectsSettings">
                 <key>heuristic</key>
@@ -199,10 +199,81 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/PurpleCat_R-Attack-P01.png</key>
-            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/PurpleCat_R-Attack-P02.png</key>
-            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/PurpleCat_R-Attack-P03.png</key>
-            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/PurpleCat_R-Attack-P04.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Hit.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Idle1.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Idle2.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Jump01.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Jump02.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Lose01.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Lose02.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Lose03.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Lose04.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Lose05.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Lose06.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Lose07.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Melee01.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Melee02.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Melee03.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-RAttack-01.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-RAttack-02.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Walk01.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Walk02.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Walk03.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Walk04.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Walk05.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Walk06.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Walk07.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Walk08.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Win01.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Win02.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Win03.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Win04.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Win05-loop.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Win06-loop.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Win07-loop.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Win08-loop.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,1</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>56,51,113,101</rect>
+                <key>scale9Paddings</key>
+                <rect>56,51,113,101</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Selected0.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>113,101,225,202</rect>
+                <key>scale9Paddings</key>
+                <rect>113,101,225,202</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat-Selected1.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>56,51,113,101</rect>
+                <key>scale9Paddings</key>
+                <rect>56,51,113,101</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat_R-Attack-P01.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat_R-Attack-P02.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat_R-Attack-P03.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat_R-Attack-P04.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -215,7 +286,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/PurpleCat_Results_Lose.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat_Results_Lose.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -228,7 +299,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/PurpleCat_Results_Win.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize/PurpleCat_Results_Win.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -244,7 +315,7 @@
         </map>
         <key>fileList</key>
         <array>
-            <filename>../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat</filename>
+            <filename>../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Mischievous Cat/gamesize</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

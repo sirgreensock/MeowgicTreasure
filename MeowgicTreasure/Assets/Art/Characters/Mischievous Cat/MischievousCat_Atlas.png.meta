@@ -10,6 +10,41 @@ TextureImporter:
     21300006: PurpleCat_R-Attack-P04
     21300008: PurpleCat_Results_Lose
     21300010: PurpleCat_Results_Win
+    21300012: PurpleCat-Hit
+    21300014: PurpleCat-Idle1
+    21300016: PurpleCat-Idle2
+    21300018: PurpleCat-Jump01
+    21300020: PurpleCat-Jump02
+    21300022: PurpleCat-Lose01
+    21300024: PurpleCat-Lose02
+    21300026: PurpleCat-Lose03
+    21300028: PurpleCat-Lose04
+    21300030: PurpleCat-Lose05
+    21300032: PurpleCat-Lose06
+    21300034: PurpleCat-Lose07
+    21300036: PurpleCat-Melee01
+    21300038: PurpleCat-Melee02
+    21300040: PurpleCat-Melee03
+    21300042: PurpleCat-RAttack-01
+    21300044: PurpleCat-RAttack-02
+    21300046: PurpleCat-Selected0
+    21300048: PurpleCat-Selected1
+    21300050: PurpleCat-Walk01
+    21300052: PurpleCat-Walk02
+    21300054: PurpleCat-Walk03
+    21300056: PurpleCat-Walk04
+    21300058: PurpleCat-Walk05
+    21300060: PurpleCat-Walk06
+    21300062: PurpleCat-Walk07
+    21300064: PurpleCat-Walk08
+    21300066: PurpleCat-Win01
+    21300068: PurpleCat-Win02
+    21300070: PurpleCat-Win03
+    21300072: PurpleCat-Win04
+    21300074: PurpleCat-Win05-loop
+    21300076: PurpleCat-Win06-loop
+    21300078: PurpleCat-Win07-loop
+    21300080: PurpleCat-Win08-loop
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -18,6 +53,8 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -33,10 +70,13 @@ TextureImporter:
   textureFormat: 1
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: -1
     mipBias: -1
-    wrapMode: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -68,84 +108,581 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
+      name: PurpleCat-Hit
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1843
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Idle1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1843
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Idle2
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1843
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Jump01
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1843
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Jump02
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1843
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Lose01
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1843
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Lose02
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1843
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Lose03
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1843
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Lose04
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1843
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Lose05
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1639
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Lose06
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1639
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Lose07
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1639
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Melee01
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1639
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Melee02
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1639
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Melee03
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1639
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-RAttack-01
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1639
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-RAttack-02
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1639
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Selected0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1233
+        width: 450
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Selected1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1233
+        width: 450
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Walk01
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1435
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Walk02
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1435
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Walk03
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1435
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Walk04
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1435
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Walk05
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1435
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Walk06
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1029
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Walk07
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1029
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Walk08
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1029
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Win01
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1029
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Win02
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1029
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Win03
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1029
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Win04
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1029
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Win05-loop
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1029
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Win06-loop
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1029
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Win07-loop
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 825
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PurpleCat-Win08-loop
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 825
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
       name: PurpleCat_R-Attack-P01
       rect:
         serializedVersion: 2
-        x: 6
-        y: 1997
+        x: 457
+        y: 982
         width: 96
         height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
       name: PurpleCat_R-Attack-P02
       rect:
         serializedVersion: 2
-        x: 104
-        y: 1997
+        x: 555
+        y: 982
         width: 96
         height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
       name: PurpleCat_R-Attack-P03
       rect:
         serializedVersion: 2
-        x: 202
-        y: 1997
+        x: 653
+        y: 982
         width: 95
         height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
       name: PurpleCat_R-Attack-P04
       rect:
         serializedVersion: 2
-        x: 299
-        y: 1997
+        x: 750
+        y: 982
         width: 95
         height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
       name: PurpleCat_Results_Lose
       rect:
         serializedVersion: 2
-        x: 396
-        y: 1515
+        x: 847
+        y: 500
         width: 527
         height: 527
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
       name: PurpleCat_Results_Win
       rect:
         serializedVersion: 2
-        x: 6
-        y: 663
+        x: 1376
+        y: 177
         width: 647
         height: 850
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
     outline: []
+    physicsShape: []
   spritePackingTag: 
   userData: 
   assetBundleName: 

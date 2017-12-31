@@ -36,16 +36,15 @@ namespace TMPro.Examples
             if (BenchmarkType == 0) // TextMesh Pro Component
             {
                 m_textMeshPro = gameObject.AddComponent<TextMeshPro>();
-                m_textContainer = GetComponent<TextContainer>();
-                m_textContainer.isAutoFitting = true;
+                m_textMeshPro.autoSizeTextContainer = true;
 
                 //m_textMeshPro.anchorDampening = true;
 
                 if (TMProFont != null)
                     m_textMeshPro.font = TMProFont;
 
-                //m_textMeshPro.font = Resources.Load("Fonts & Materials/IMPACT SDF", typeof(TextMeshProFont)) as TextMeshProFont; // Make sure the IMPACT SDF exists before calling this...           
-                //m_textMeshPro.fontSharedMaterial = Resources.Load("Fonts & Materials/IMPACT SDF", typeof(Material)) as Material; // Same as above make sure this material exists.
+                //m_textMeshPro.font = Resources.Load("Fonts & Materials/Anton SDF", typeof(TextMeshProFont)) as TextMeshProFont; // Make sure the Anton SDF exists before calling this...
+                //m_textMeshPro.fontSharedMaterial = Resources.Load("Fonts & Materials/Anton SDF", typeof(Material)) as Material; // Same as above make sure this material exists.
 
                 m_textMeshPro.fontSize = 48;
                 m_textMeshPro.alignment = TextAlignmentOptions.Center;
@@ -61,7 +60,7 @@ namespace TMPro.Examples
                 //m_textMeshPro.fontColor = new Color32(255, 255, 255, 255);
 
                 m_material01 = m_textMeshPro.font.material;
-                m_material02 = Resources.Load("Fonts & Materials/ARIAL SDF BEVEL", typeof(Material)) as Material; // Make sure the IMPACT SDF exists before calling this...  
+                m_material02 = Resources.Load("Fonts & Materials/LiberationSans SDF - Drop Shadow", typeof(Material)) as Material; // Make sure the LiberationSans SDF exists before calling this...  
 
 
             }
@@ -115,7 +114,7 @@ namespace TMPro.Examples
         {
             if (BenchmarkType == 0)
             {
-                m_textMeshPro.text = (m_frame % 1000).ToString();            
+                m_textMeshPro.text = (m_frame % 1000).ToString();
             }
             else if (BenchmarkType == 1)
             {

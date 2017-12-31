@@ -4,17 +4,52 @@
 # To import these sprites into your Unity project, download "TexturePackerImporter":
 # http://www.codeandweb.com/texturepacker/unity
 #
-# $TexturePacker:SmartUpdate:db4dd1d15de575f890a07592da36c540:2884263d114954ca01eb71d12507d2c2:42cc44b169f2520d84443b23344fbc7c$
+# $TexturePacker:SmartUpdate:c59023684ee1e8394adba020355df4ec:b5c7d727a43a947810a0dcb243427faa:42cc44b169f2520d84443b23344fbc7c$
 #
 :format=40300
 :texture=MischievousCat_Atlas.png
-:size=1024x2048
+:size=2048x2048
 :pivotpoints=enabled
 :borders=disabled
 
-PurpleCat_R-Attack-P01;6;1997;96;45; 0.5;0.5; 0;0;0;0
-PurpleCat_R-Attack-P02;104;1997;96;45; 0.5;0.5; 0;0;0;0
-PurpleCat_R-Attack-P03;202;1997;95;45; 0.5;0.5; 0;0;0;0
-PurpleCat_R-Attack-P04;299;1997;95;45; 0.5;0.5; 0;0;0;0
-PurpleCat_Results_Lose;396;1515;527;527; 0.5;0.5; 0;0;0;0
-PurpleCat_Results_Win;6;663;647;850; 0.5;0.5; 0;0;0;0
+PurpleCat-Hit;3;1843;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Idle1;230;1843;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Idle2;457;1843;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Jump01;684;1843;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Jump02;911;1843;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Lose01;1138;1843;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Lose02;1365;1843;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Lose03;1592;1843;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Lose04;1819;1843;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Lose05;3;1639;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Lose06;230;1639;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Lose07;457;1639;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Melee01;684;1639;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Melee02;911;1639;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Melee03;1138;1639;225;202; 0.5;0; 0;0;0;0
+PurpleCat-RAttack-01;1365;1639;225;202; 0.5;0; 0;0;0;0
+PurpleCat-RAttack-02;1592;1639;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Selected0;3;1233;450;404; 0.5;0.5; 0;0;0;0
+PurpleCat-Selected1;455;1233;450;404; 0.5;0.5; 0;0;0;0
+PurpleCat-Walk01;907;1435;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Walk02;1134;1435;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Walk03;1361;1435;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Walk04;1588;1435;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Walk05;1815;1435;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Walk06;3;1029;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Walk07;230;1029;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Walk08;457;1029;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Win01;684;1029;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Win02;911;1029;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Win03;1138;1029;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Win04;1365;1029;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Win05-loop;1592;1029;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Win06-loop;1819;1029;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Win07-loop;3;825;225;202; 0.5;0; 0;0;0;0
+PurpleCat-Win08-loop;230;825;225;202; 0.5;0; 0;0;0;0
+PurpleCat_R-Attack-P01;457;982;96;45; 0.5;0.5; 0;0;0;0
+PurpleCat_R-Attack-P02;555;982;96;45; 0.5;0.5; 0;0;0;0
+PurpleCat_R-Attack-P03;653;982;95;45; 0.5;0.5; 0;0;0;0
+PurpleCat_R-Attack-P04;750;982;95;45; 0.5;0.5; 0;0;0;0
+PurpleCat_Results_Lose;847;500;527;527; 0.5;0.5; 0;0;0;0
+PurpleCat_Results_Win;1376;177;647;850; 0.5;0.5; 0;0;0;0

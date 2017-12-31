@@ -104,7 +104,7 @@
         <key>algorithmSettings</key>
         <struct type="AlgorithmSettings">
             <key>algorithm</key>
-            <enum type="AlgorithmSettings::AlgorithmId">Basic</enum>
+            <enum type="AlgorithmSettings::AlgorithmId">MaxRects</enum>
             <key>freeSizeMode</key>
             <enum type="AlgorithmSettings::AlgorithmFreeSizeMode">Best</enum>
             <key>sizeConstraints</key>
@@ -286,6 +286,20 @@
                 <rect>162,213,324,425</rect>
                 <key>scale9Paddings</key>
                 <rect>162,213,324,425</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Dumb Cat/DumbCat_Selected0.png</key>
+            <key type="filename">../../../../../../../Dropbox/Dropbox (Personal)/Nik/MeowgicTreasure/artwork/Atlas/Dumb Cat/DumbCat_Selected1.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>113,101,225,202</rect>
+                <key>scale9Paddings</key>
+                <rect>113,101,225,202</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>

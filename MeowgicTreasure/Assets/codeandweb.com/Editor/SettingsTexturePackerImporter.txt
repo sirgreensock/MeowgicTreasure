@@ -9,6 +9,8 @@ tpsheetFileNames:
 - Assets/Art/Environments/Atlas_Orbs.tpsheet
 - Assets/Art/UI/Atlas_Scorebar.tpsheet
 - Assets/Art/UI/Letters/Atlas_Letters.tpsheet
+- Assets/Art/UI/Tutorial/Atlas_Tutorial.tpsheet
+- Assets/Art/UI/Tutorial/emojitest.tpsheet
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
 textureFileNames:
 - Assets/Art/Characters/Adventure Cat/AdventureCat_Atlas.png
@@ -19,8 +21,12 @@ textureFileNames:
 - Assets/Art/Environments/Atlas_Orbs.png
 - Assets/Art/UI/Atlas_Scorebar.png
 - Assets/Art/UI/Letters/Atlas_Letters.png
+- Assets/Art/UI/Tutorial/Atlas_Tutorial.png
+- Assets/Art/UI/Tutorial/emojitest.png
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
 normalmapFileNames:
+- 
+- 
 - 
 - 
 - 

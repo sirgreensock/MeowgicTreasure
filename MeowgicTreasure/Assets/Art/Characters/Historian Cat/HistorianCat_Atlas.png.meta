@@ -68,6 +68,8 @@ TextureImporter:
     21300122: GreenCat_Win03
     21300124: GreenCat_Win04
     21300126: test-GreenCat_Win00a-test
+    21300128: GreenCat_Selected0
+    21300130: GreenCat_Selected1
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -143,7 +145,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 6
-        y: 459
+        y: 53
         width: 225
         height: 202
       alignment: 7
@@ -156,8 +158,8 @@ TextureImporter:
       name: GreenCat_Idle1
       rect:
         serializedVersion: 2
-        x: 6
-        y: 255
+        x: 233
+        y: 53
         width: 225
         height: 202
       alignment: 7
@@ -170,8 +172,8 @@ TextureImporter:
       name: GreenCat_Jump01
       rect:
         serializedVersion: 2
-        x: 6
-        y: 51
+        x: 460
+        y: 53
         width: 225
         height: 202
       alignment: 7
@@ -184,8 +186,8 @@ TextureImporter:
       name: GreenCat_Jump02
       rect:
         serializedVersion: 2
-        x: 233
-        y: 459
+        x: 687
+        y: 53
         width: 225
         height: 202
       alignment: 7
@@ -196,76 +198,6 @@ TextureImporter:
       tessellationDetail: -1
     - serializedVersion: 2
       name: GreenCat_Lose00a
-      rect:
-        serializedVersion: 2
-        x: 233
-        y: 255
-        width: 225
-        height: 202
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: GreenCat_Lose00b
-      rect:
-        serializedVersion: 2
-        x: 233
-        y: 51
-        width: 225
-        height: 202
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: GreenCat_Lose00c
-      rect:
-        serializedVersion: 2
-        x: 460
-        y: 459
-        width: 225
-        height: 202
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: GreenCat_Lose01
-      rect:
-        serializedVersion: 2
-        x: 460
-        y: 255
-        width: 225
-        height: 202
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: GreenCat_Lose02
-      rect:
-        serializedVersion: 2
-        x: 460
-        y: 51
-        width: 225
-        height: 202
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: GreenCat_Lose03
       rect:
         serializedVersion: 2
         x: 535
@@ -279,21 +211,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: GreenCat_Lose04
-      rect:
-        serializedVersion: 2
-        x: 460
-        y: 255
-        width: 225
-        height: 202
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: GreenCat_Melee1
+      name: GreenCat_Lose00b
       rect:
         serializedVersion: 2
         x: 535
@@ -307,11 +225,95 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
+      name: GreenCat_Lose00c
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1840
+        width: 225
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GreenCat_Lose01
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1636
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GreenCat_Lose02
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1432
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GreenCat_Lose03
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1228
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GreenCat_Lose04
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1636
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GreenCat_Melee1
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1024
+        width: 225
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
       name: GreenCat_Melee2
       rect:
         serializedVersion: 2
-        x: 687
-        y: 486
+        x: 762
+        y: 820
         width: 225
         height: 202
       alignment: 7
@@ -324,8 +326,8 @@ TextureImporter:
       name: GreenCat_Melee3
       rect:
         serializedVersion: 2
-        x: 687
-        y: 282
+        x: 910
+        y: 616
         width: 225
         height: 202
       alignment: 7
@@ -338,8 +340,8 @@ TextureImporter:
       name: GreenCat_R-Attack-P01
       rect:
         serializedVersion: 2
-        x: 535
-        y: 737
+        x: 6
+        y: 6
         width: 96
         height: 45
       alignment: 0
@@ -352,8 +354,8 @@ TextureImporter:
       name: GreenCat_R-Attack-P02
       rect:
         serializedVersion: 2
-        x: 535
-        y: 690
+        x: 104
+        y: 6
         width: 96
         height: 45
       alignment: 0
@@ -366,8 +368,8 @@ TextureImporter:
       name: GreenCat_R-Attack-P03
       rect:
         serializedVersion: 2
-        x: 633
-        y: 737
+        x: 202
+        y: 6
         width: 96
         height: 45
       alignment: 0
@@ -380,8 +382,8 @@ TextureImporter:
       name: GreenCat_R-Attack-P04
       rect:
         serializedVersion: 2
-        x: 633
-        y: 690
+        x: 300
+        y: 6
         width: 96
         height: 45
       alignment: 0
@@ -394,8 +396,8 @@ TextureImporter:
       name: GreenCat_R-Attack01
       rect:
         serializedVersion: 2
-        x: 687
-        y: 78
+        x: 910
+        y: 412
         width: 225
         height: 202
       alignment: 7
@@ -408,8 +410,8 @@ TextureImporter:
       name: GreenCat_R-Attack02
       rect:
         serializedVersion: 2
-        x: 655
-        y: 1840
+        x: 914
+        y: 208
         width: 225
         height: 202
       alignment: 7
@@ -447,11 +449,39 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
+      name: GreenCat_Selected0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 257
+        width: 450
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GreenCat_Selected1
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 257
+        width: 450
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
       name: GreenCat_Walk01
       rect:
         serializedVersion: 2
-        x: 655
-        y: 1636
+        x: 882
+        y: 1840
         width: 225
         height: 202
       alignment: 7
@@ -464,8 +494,8 @@ TextureImporter:
       name: GreenCat_Walk02
       rect:
         serializedVersion: 2
-        x: 655
-        y: 1432
+        x: 882
+        y: 1636
         width: 225
         height: 202
       alignment: 7
@@ -478,8 +508,8 @@ TextureImporter:
       name: GreenCat_Walk03
       rect:
         serializedVersion: 2
-        x: 655
-        y: 1228
+        x: 882
+        y: 1432
         width: 225
         height: 202
       alignment: 7
@@ -492,8 +522,8 @@ TextureImporter:
       name: GreenCat_Walk04
       rect:
         serializedVersion: 2
-        x: 762
-        y: 1024
+        x: 882
+        y: 1228
         width: 225
         height: 202
       alignment: 7
@@ -506,8 +536,8 @@ TextureImporter:
       name: GreenCat_Walk05
       rect:
         serializedVersion: 2
-        x: 762
-        y: 820
+        x: 989
+        y: 1024
         width: 225
         height: 202
       alignment: 7
@@ -520,8 +550,8 @@ TextureImporter:
       name: GreenCat_Walk06
       rect:
         serializedVersion: 2
-        x: 914
-        y: 616
+        x: 989
+        y: 820
         width: 225
         height: 202
       alignment: 7
@@ -534,8 +564,8 @@ TextureImporter:
       name: GreenCat_Walk07
       rect:
         serializedVersion: 2
-        x: 914
-        y: 412
+        x: 1137
+        y: 616
         width: 225
         height: 202
       alignment: 7
@@ -548,8 +578,8 @@ TextureImporter:
       name: GreenCat_Walk08
       rect:
         serializedVersion: 2
-        x: 914
-        y: 208
+        x: 1137
+        y: 412
         width: 225
         height: 202
       alignment: 7
@@ -562,7 +592,7 @@ TextureImporter:
       name: GreenCat_Win0-Ghost01-00A
       rect:
         serializedVersion: 2
-        x: 1897
+        x: 1216
         y: 1840
         width: 140
         height: 202
@@ -576,8 +606,8 @@ TextureImporter:
       name: GreenCat_Win0-Ghost01-00B
       rect:
         serializedVersion: 2
-        x: 1563
-        y: 1636
+        x: 1822
+        y: 1840
         width: 140
         height: 202
       alignment: 7
@@ -590,7 +620,7 @@ TextureImporter:
       name: GreenCat_Win0-Ghost01-01
       rect:
         serializedVersion: 2
-        x: 1705
+        x: 1443
         y: 1636
         width: 140
         height: 202
@@ -604,7 +634,7 @@ TextureImporter:
       name: GreenCat_Win0-Ghost01-02
       rect:
         serializedVersion: 2
-        x: 1847
+        x: 1822
         y: 1636
         width: 140
         height: 202
@@ -619,7 +649,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1336
-        y: 1432
+        y: 1228
         width: 140
         height: 202
       alignment: 7
@@ -632,8 +662,8 @@ TextureImporter:
       name: GreenCat_Win0-Ghost01-04
       rect:
         serializedVersion: 2
-        x: 1478
-        y: 1432
+        x: 1443
+        y: 1024
         width: 140
         height: 202
       alignment: 7
@@ -646,8 +676,8 @@ TextureImporter:
       name: GreenCat_Win0-Ghost01-05
       rect:
         serializedVersion: 2
-        x: 1620
-        y: 1432
+        x: 1478
+        y: 1228
         width: 140
         height: 202
       alignment: 7
@@ -660,7 +690,7 @@ TextureImporter:
       name: GreenCat_Win0-Ghost02-00A
       rect:
         serializedVersion: 2
-        x: 1762
+        x: 1563
         y: 1432
         width: 140
         height: 202
@@ -674,8 +704,8 @@ TextureImporter:
       name: GreenCat_Win0-Ghost02-00B
       rect:
         serializedVersion: 2
-        x: 1336
-        y: 1228
+        x: 1443
+        y: 820
         width: 140
         height: 202
       alignment: 7
@@ -688,8 +718,8 @@ TextureImporter:
       name: GreenCat_Win0-Ghost02-00c
       rect:
         serializedVersion: 2
-        x: 1478
-        y: 1228
+        x: 1705
+        y: 1432
         width: 140
         height: 202
       alignment: 7
@@ -700,6 +730,34 @@ TextureImporter:
       tessellationDetail: -1
     - serializedVersion: 2
       name: GreenCat_Win0-Ghost02-01
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1432
+        width: 140
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GreenCat_Win0-Ghost02-02
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1024
+        width: 140
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GreenCat_Win0-Ghost02-03
       rect:
         serializedVersion: 2
         x: 1620
@@ -713,7 +771,21 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: GreenCat_Win0-Ghost02-02
+      name: GreenCat_Win0-Ghost02-04
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 820
+        width: 140
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GreenCat_Win0-Ghost03-00A
       rect:
         serializedVersion: 2
         x: 1762
@@ -727,53 +799,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: GreenCat_Win0-Ghost02-03
-      rect:
-        serializedVersion: 2
-        x: 1141
-        y: 616
-        width: 140
-        height: 202
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: GreenCat_Win0-Ghost02-04
-      rect:
-        serializedVersion: 2
-        x: 1216
-        y: 1024
-        width: 140
-        height: 202
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: GreenCat_Win0-Ghost03-00A
-      rect:
-        serializedVersion: 2
-        x: 1216
-        y: 820
-        width: 140
-        height: 202
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-    - serializedVersion: 2
       name: GreenCat_Win0-Ghost03-00B
       rect:
         serializedVersion: 2
-        x: 1141
-        y: 412
+        x: 1727
+        y: 1024
         width: 140
         height: 202
       alignment: 7
@@ -786,8 +816,8 @@ TextureImporter:
       name: GreenCat_Win0-Ghost03-00C
       rect:
         serializedVersion: 2
-        x: 1141
-        y: 208
+        x: 1869
+        y: 1024
         width: 140
         height: 202
       alignment: 7
@@ -800,8 +830,8 @@ TextureImporter:
       name: GreenCat_Win0-Ghost03-01
       rect:
         serializedVersion: 2
-        x: 1358
-        y: 1024
+        x: 1727
+        y: 820
         width: 140
         height: 202
       alignment: 7
@@ -814,8 +844,8 @@ TextureImporter:
       name: GreenCat_Win0-Ghost03-02
       rect:
         serializedVersion: 2
-        x: 1500
-        y: 1024
+        x: 1869
+        y: 820
         width: 140
         height: 202
       alignment: 7
@@ -828,8 +858,8 @@ TextureImporter:
       name: GreenCat_Win0-Ghost03-03
       rect:
         serializedVersion: 2
-        x: 1642
-        y: 1024
+        x: 1591
+        y: 616
         width: 140
         height: 202
       alignment: 7
@@ -842,8 +872,8 @@ TextureImporter:
       name: GreenCat_Win0-Ghost03-04
       rect:
         serializedVersion: 2
-        x: 1784
-        y: 1024
+        x: 1591
+        y: 412
         width: 140
         height: 202
       alignment: 7
@@ -856,8 +886,8 @@ TextureImporter:
       name: GreenCat_Win00a
       rect:
         serializedVersion: 2
-        x: 882
-        y: 1840
+        x: 1141
+        y: 208
         width: 225
         height: 202
       alignment: 7
@@ -870,8 +900,8 @@ TextureImporter:
       name: GreenCat_Win00b
       rect:
         serializedVersion: 2
-        x: 882
-        y: 1636
+        x: 1368
+        y: 1840
         width: 225
         height: 202
       alignment: 7
@@ -884,8 +914,8 @@ TextureImporter:
       name: GreenCat_Win00c
       rect:
         serializedVersion: 2
-        x: 882
-        y: 1432
+        x: 1595
+        y: 1840
         width: 225
         height: 202
       alignment: 7
@@ -898,8 +928,8 @@ TextureImporter:
       name: GreenCat_Win00d
       rect:
         serializedVersion: 2
-        x: 882
-        y: 1228
+        x: 1109
+        y: 1636
         width: 225
         height: 202
       alignment: 7
@@ -912,8 +942,8 @@ TextureImporter:
       name: GreenCat_Win00e
       rect:
         serializedVersion: 2
-        x: 989
-        y: 1024
+        x: 1109
+        y: 1432
         width: 225
         height: 202
       alignment: 7
@@ -926,8 +956,8 @@ TextureImporter:
       name: GreenCat_Win00f
       rect:
         serializedVersion: 2
-        x: 989
-        y: 820
+        x: 1109
+        y: 1228
         width: 225
         height: 202
       alignment: 7
@@ -941,7 +971,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1216
-        y: 1840
+        y: 1024
         width: 225
         height: 202
       alignment: 7
@@ -954,8 +984,8 @@ TextureImporter:
       name: GreenCat_Win02
       rect:
         serializedVersion: 2
-        x: 1443
-        y: 1840
+        x: 1216
+        y: 820
         width: 225
         height: 202
       alignment: 7
@@ -968,8 +998,8 @@ TextureImporter:
       name: GreenCat_Win03
       rect:
         serializedVersion: 2
-        x: 1670
-        y: 1840
+        x: 1364
+        y: 616
         width: 225
         height: 202
       alignment: 7
@@ -982,8 +1012,8 @@ TextureImporter:
       name: GreenCat_Win04
       rect:
         serializedVersion: 2
-        x: 1109
-        y: 1636
+        x: 1364
+        y: 412
         width: 225
         height: 202
       alignment: 7
@@ -996,8 +1026,8 @@ TextureImporter:
       name: test-GreenCat_Jump01
       rect:
         serializedVersion: 2
-        x: 1109
-        y: 1432
+        x: 1368
+        y: 208
         width: 225
         height: 202
       alignment: 7
@@ -1010,8 +1040,8 @@ TextureImporter:
       name: test-GreenCat_Jump04
       rect:
         serializedVersion: 2
-        x: 1109
-        y: 1228
+        x: 1595
+        y: 1636
         width: 225
         height: 202
       alignment: 7
@@ -1025,7 +1055,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1336
-        y: 1636
+        y: 1432
         width: 225
         height: 202
       alignment: 0

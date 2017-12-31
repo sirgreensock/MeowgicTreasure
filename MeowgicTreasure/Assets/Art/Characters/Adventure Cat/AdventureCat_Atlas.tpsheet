@@ -4,7 +4,7 @@
 # To import these sprites into your Unity project, download "TexturePackerImporter":
 # http://www.codeandweb.com/texturepacker/unity
 #
-# $TexturePacker:SmartUpdate:ab02a8c7be645bb47871bcdf637973fc:2769e64758c8f9b51c642d021d6c239f:a3b5bd368e297bf20127ed6d3dd4cfe5$
+# $TexturePacker:SmartUpdate:1d541f7cb485c4875b13ffdd4c9ad7be:65199e5039196a2ccf24cec427adb01e:a3b5bd368e297bf20127ed6d3dd4cfe5$
 #
 :format=40300
 :texture=AdventureCat_Atlas.png
@@ -33,15 +33,17 @@ BlueCat_R-Attack01;1533;1636;225;202; 0.5;0; 0;0;0;0
 BlueCat_R-Attack02;1760;1636;225;202; 0.5;0; 0;0;0;0
 BlueCat_Results_Lose;6;1107;527;527; 0.5;0.5; 0;0;0;0
 BlueCat_Results_Win;535;784;647;850; 0.5;0.5; 0;0;0;0
-BlueCat_walk01;1184;1432;225;202; 0.5;0; 0;0;0;0
-BlueCat_walk02;1411;1432;225;202; 0.5;0; 0;0;0;0
-BlueCat_walk03;1638;1432;225;202; 0.5;0; 0;0;0;0
-BlueCat_walk04;6;580;225;202; 0.5;0; 0;0;0;0
-BlueCat_walk05;233;580;225;202; 0.5;0; 0;0;0;0
-BlueCat_walk06;460;580;225;202; 0.5;0; 0;0;0;0
-BlueCat_walk07;687;580;225;202; 0.5;0; 0;0;0;0
-BlueCat_walk08;914;580;225;202; 0.5;0; 0;0;0;0
-BlueCat_Win01;1141;580;225;202; 0.5;0; 0;0;0;0
-BlueCat_Win02;1368;580;225;202; 0.5;0; 0;0;0;0
-BlueCat_Win03;1595;580;225;202; 0.5;0; 0;0;0;0
-BlueCat_Win04;6;376;225;202; 0.5;0; 0;0;0;0
+BlueCat_Selected0;1184;1230;450;404; 0.5;0.5; 0;0;0;0
+BlueCat_Selected1;6;378;450;404; 0.5;0.5; 0;0;0;0
+BlueCat_walk01;458;580;225;202; 0.5;0; 0;0;0;0
+BlueCat_walk02;685;580;225;202; 0.5;0; 0;0;0;0
+BlueCat_walk03;912;580;225;202; 0.5;0; 0;0;0;0
+BlueCat_walk04;1139;580;225;202; 0.5;0; 0;0;0;0
+BlueCat_walk05;1366;580;225;202; 0.5;0; 0;0;0;0
+BlueCat_walk06;1593;580;225;202; 0.5;0; 0;0;0;0
+BlueCat_walk07;6;174;225;202; 0.5;0; 0;0;0;0
+BlueCat_walk08;233;174;225;202; 0.5;0; 0;0;0;0
+BlueCat_Win01;460;174;225;202; 0.5;0; 0;0;0;0
+BlueCat_Win02;687;174;225;202; 0.5;0; 0;0;0;0
+BlueCat_Win03;914;174;225;202; 0.5;0; 0;0;0;0
+BlueCat_Win04;1141;174;225;202; 0.5;0; 0;0;0;0

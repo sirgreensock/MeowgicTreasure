@@ -37,6 +37,8 @@ TextureImporter:
     21300060: BlueCat_Win02
     21300062: BlueCat_Win03
     21300064: BlueCat_Win04
+    21300066: BlueCat_Selected0
+    21300068: BlueCat_Selected1
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -402,11 +404,39 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: BlueCat_walk01
+      name: BlueCat_Selected0
       rect:
         serializedVersion: 2
         x: 1184
-        y: 1432
+        y: 1230
+        width: 450
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_Selected1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 378
+        width: 450
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueCat_walk01
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 580
         width: 225
         height: 202
       alignment: 7
@@ -419,8 +449,8 @@ TextureImporter:
       name: BlueCat_walk02
       rect:
         serializedVersion: 2
-        x: 1411
-        y: 1432
+        x: 685
+        y: 580
         width: 225
         height: 202
       alignment: 7
@@ -433,8 +463,8 @@ TextureImporter:
       name: BlueCat_walk03
       rect:
         serializedVersion: 2
-        x: 1638
-        y: 1432
+        x: 912
+        y: 580
         width: 225
         height: 202
       alignment: 7
@@ -447,7 +477,7 @@ TextureImporter:
       name: BlueCat_walk04
       rect:
         serializedVersion: 2
-        x: 6
+        x: 1139
         y: 580
         width: 225
         height: 202
@@ -461,7 +491,7 @@ TextureImporter:
       name: BlueCat_walk05
       rect:
         serializedVersion: 2
-        x: 233
+        x: 1366
         y: 580
         width: 225
         height: 202
@@ -475,7 +505,7 @@ TextureImporter:
       name: BlueCat_walk06
       rect:
         serializedVersion: 2
-        x: 460
+        x: 1593
         y: 580
         width: 225
         height: 202
@@ -489,8 +519,8 @@ TextureImporter:
       name: BlueCat_walk07
       rect:
         serializedVersion: 2
-        x: 687
-        y: 580
+        x: 6
+        y: 174
         width: 225
         height: 202
       alignment: 7
@@ -503,8 +533,8 @@ TextureImporter:
       name: BlueCat_walk08
       rect:
         serializedVersion: 2
-        x: 914
-        y: 580
+        x: 233
+        y: 174
         width: 225
         height: 202
       alignment: 7
@@ -517,8 +547,8 @@ TextureImporter:
       name: BlueCat_Win01
       rect:
         serializedVersion: 2
-        x: 1141
-        y: 580
+        x: 460
+        y: 174
         width: 225
         height: 202
       alignment: 7
@@ -531,8 +561,8 @@ TextureImporter:
       name: BlueCat_Win02
       rect:
         serializedVersion: 2
-        x: 1368
-        y: 580
+        x: 687
+        y: 174
         width: 225
         height: 202
       alignment: 7
@@ -545,8 +575,8 @@ TextureImporter:
       name: BlueCat_Win03
       rect:
         serializedVersion: 2
-        x: 1595
-        y: 580
+        x: 914
+        y: 174
         width: 225
         height: 202
       alignment: 7
@@ -559,8 +589,8 @@ TextureImporter:
       name: BlueCat_Win04
       rect:
         serializedVersion: 2
-        x: 6
-        y: 376
+        x: 1141
+        y: 174
         width: 225
         height: 202
       alignment: 7

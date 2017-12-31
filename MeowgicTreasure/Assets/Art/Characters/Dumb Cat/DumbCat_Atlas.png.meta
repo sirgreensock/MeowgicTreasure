@@ -56,6 +56,8 @@ TextureImporter:
     21300098: DumbCat_Win10
     21300100: DumbCat_Win11
     21300102: DumbCat_Win12
+    21300104: DumbCat_Selected0
+    21300106: DumbCat_Selected1
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -138,8 +140,8 @@ TextureImporter:
       name: DumbCat-Idle1
       rect:
         serializedVersion: 2
-        x: 233
-        y: 1092
+        x: 655
+        y: 1420
         width: 225
         height: 202
       alignment: 7
@@ -152,8 +154,8 @@ TextureImporter:
       name: DumbCat-Idle2
       rect:
         serializedVersion: 2
-        x: 233
-        y: 1296
+        x: 655
+        y: 1216
         width: 225
         height: 202
       alignment: 7
@@ -166,8 +168,8 @@ TextureImporter:
       name: DumbCat-Melee1
       rect:
         serializedVersion: 2
-        x: 687
-        y: 1296
+        x: 852
+        y: 1840
         width: 225
         height: 202
       alignment: 7
@@ -180,8 +182,8 @@ TextureImporter:
       name: DumbCat-Melee2
       rect:
         serializedVersion: 2
-        x: 1141
-        y: 1296
+        x: 852
+        y: 1636
         width: 225
         height: 202
       alignment: 7
@@ -194,8 +196,8 @@ TextureImporter:
       name: DumbCat-Melee3
       rect:
         serializedVersion: 2
-        x: 914
-        y: 1296
+        x: 732
+        y: 1012
         width: 225
         height: 202
       alignment: 7
@@ -208,8 +210,8 @@ TextureImporter:
       name: DumbCat-Walk1
       rect:
         serializedVersion: 2
-        x: 460
-        y: 1296
+        x: 732
+        y: 808
         width: 225
         height: 202
       alignment: 7
@@ -222,8 +224,8 @@ TextureImporter:
       name: DumbCat-Walk2
       rect:
         serializedVersion: 2
-        x: 6
-        y: 1296
+        x: 882
+        y: 1432
         width: 225
         height: 202
       alignment: 7
@@ -236,8 +238,8 @@ TextureImporter:
       name: DumbCat-Walk3
       rect:
         serializedVersion: 2
-        x: 854
-        y: 1506
+        x: 882
+        y: 1228
         width: 225
         height: 202
       alignment: 7
@@ -250,8 +252,8 @@ TextureImporter:
       name: DumbCat-Walk4
       rect:
         serializedVersion: 2
-        x: 1308
-        y: 1506
+        x: 1079
+        y: 1840
         width: 225
         height: 202
       alignment: 7
@@ -264,8 +266,8 @@ TextureImporter:
       name: DumbCat-Walk5
       rect:
         serializedVersion: 2
-        x: 1762
-        y: 1506
+        x: 1079
+        y: 1636
         width: 225
         height: 202
       alignment: 7
@@ -278,8 +280,8 @@ TextureImporter:
       name: DumbCat-Walk6
       rect:
         serializedVersion: 2
-        x: 1535
-        y: 1506
+        x: 959
+        y: 1024
         width: 225
         height: 202
       alignment: 7
@@ -292,8 +294,8 @@ TextureImporter:
       name: DumbCat-Walk7
       rect:
         serializedVersion: 2
-        x: 1368
-        y: 1296
+        x: 959
+        y: 820
         width: 225
         height: 202
       alignment: 7
@@ -306,8 +308,8 @@ TextureImporter:
       name: DumbCat-Walk8
       rect:
         serializedVersion: 2
-        x: 1081
-        y: 1506
+        x: 1109
+        y: 1432
         width: 225
         height: 202
       alignment: 7
@@ -320,8 +322,8 @@ TextureImporter:
       name: DumbCat_Hit
       rect:
         serializedVersion: 2
-        x: 914
-        y: 1092
+        x: 1109
+        y: 1228
         width: 225
         height: 202
       alignment: 7
@@ -334,8 +336,8 @@ TextureImporter:
       name: DumbCat_Jump01
       rect:
         serializedVersion: 2
-        x: 1368
-        y: 1092
+        x: 1306
+        y: 1840
         width: 225
         height: 202
       alignment: 7
@@ -348,8 +350,8 @@ TextureImporter:
       name: DumbCat_Jump02
       rect:
         serializedVersion: 2
-        x: 6
-        y: 888
+        x: 1306
+        y: 1636
         width: 225
         height: 202
       alignment: 7
@@ -362,8 +364,8 @@ TextureImporter:
       name: DumbCat_Lose00
       rect:
         serializedVersion: 2
-        x: 1595
-        y: 1092
+        x: 910
+        y: 480
         width: 225
         height: 202
       alignment: 7
@@ -376,8 +378,8 @@ TextureImporter:
       name: DumbCat_Lose01
       rect:
         serializedVersion: 2
-        x: 1141
-        y: 1092
+        x: 910
+        y: 276
         width: 225
         height: 202
       alignment: 7
@@ -390,8 +392,8 @@ TextureImporter:
       name: DumbCat_Lose02
       rect:
         serializedVersion: 2
-        x: 1595
-        y: 1296
+        x: 991
+        y: 72
         width: 225
         height: 202
       alignment: 7
@@ -404,8 +406,8 @@ TextureImporter:
       name: DumbCat_Lose03
       rect:
         serializedVersion: 2
-        x: 687
-        y: 1092
+        x: 1186
+        y: 1024
         width: 225
         height: 202
       alignment: 7
@@ -418,8 +420,8 @@ TextureImporter:
       name: DumbCat_Lose04
       rect:
         serializedVersion: 2
-        x: 6
-        y: 1092
+        x: 1186
+        y: 820
         width: 225
         height: 202
       alignment: 7
@@ -432,8 +434,8 @@ TextureImporter:
       name: DumbCat_Lose05
       rect:
         serializedVersion: 2
-        x: 460
-        y: 1092
+        x: 1336
+        y: 1432
         width: 225
         height: 202
       alignment: 7
@@ -446,8 +448,8 @@ TextureImporter:
       name: DumbCat_R-Attack-P01
       rect:
         serializedVersion: 2
-        x: 300
-        y: 1997
+        x: 535
+        y: 725
         width: 96
         height: 45
       alignment: 0
@@ -460,8 +462,8 @@ TextureImporter:
       name: DumbCat_R-Attack-P02
       rect:
         serializedVersion: 2
-        x: 202
-        y: 1997
+        x: 535
+        y: 678
         width: 96
         height: 45
       alignment: 0
@@ -474,8 +476,8 @@ TextureImporter:
       name: DumbCat_R-Attack-P03
       rect:
         serializedVersion: 2
-        x: 104
-        y: 1997
+        x: 633
+        y: 725
         width: 96
         height: 45
       alignment: 0
@@ -488,8 +490,8 @@ TextureImporter:
       name: DumbCat_R-Attack-P04
       rect:
         serializedVersion: 2
-        x: 6
-        y: 1997
+        x: 633
+        y: 678
         width: 96
         height: 45
       alignment: 0
@@ -502,8 +504,8 @@ TextureImporter:
       name: DumbCat_R-Attack01
       rect:
         serializedVersion: 2
-        x: 627
-        y: 1506
+        x: 1336
+        y: 1228
         width: 225
         height: 202
       alignment: 7
@@ -516,8 +518,8 @@ TextureImporter:
       name: DumbCat_R-Attack02
       rect:
         serializedVersion: 2
-        x: 400
-        y: 1506
+        x: 1533
+        y: 1840
         width: 225
         height: 202
       alignment: 7
@@ -530,8 +532,8 @@ TextureImporter:
       name: DumbCat_Results_Lose-01
       rect:
         serializedVersion: 2
-        x: 233
-        y: 563
+        x: 6
+        y: 663
         width: 527
         height: 527
       alignment: 7
@@ -544,10 +546,38 @@ TextureImporter:
       name: DumbCat_Results_Win-01
       rect:
         serializedVersion: 2
-        x: 762
-        y: 240
+        x: 6
+        y: 1192
         width: 647
         height: 850
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Selected0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 257
+        width: 450
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DumbCat_Selected1
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 257
+        width: 450
+        height: 404
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -558,8 +588,8 @@ TextureImporter:
       name: DumbCat_Win-pre-01
       rect:
         serializedVersion: 2
-        x: 483
-        y: 1710
+        x: 6
+        y: 47
         width: 195
         height: 208
       alignment: 7
@@ -572,8 +602,8 @@ TextureImporter:
       name: DumbCat_Win-pre-02
       rect:
         serializedVersion: 2
-        x: 680
-        y: 1710
+        x: 203
+        y: 47
         width: 195
         height: 208
       alignment: 7
@@ -586,8 +616,8 @@ TextureImporter:
       name: DumbCat_Win-pre-03
       rect:
         serializedVersion: 2
-        x: 1271
-        y: 1710
+        x: 400
+        y: 47
         width: 195
         height: 208
       alignment: 7
@@ -600,8 +630,8 @@ TextureImporter:
       name: DumbCat_Win-pre-04
       rect:
         serializedVersion: 2
-        x: 1665
-        y: 1710
+        x: 597
+        y: 47
         width: 195
         height: 208
       alignment: 7
@@ -614,8 +644,8 @@ TextureImporter:
       name: DumbCat_Win-pre-05
       rect:
         serializedVersion: 2
-        x: 203
-        y: 1500
+        x: 794
+        y: 47
         width: 195
         height: 208
       alignment: 7
@@ -628,8 +658,8 @@ TextureImporter:
       name: DumbCat_Win-pre-06
       rect:
         serializedVersion: 2
-        x: 6
-        y: 1500
+        x: 535
+        y: 982
         width: 195
         height: 208
       alignment: 7
@@ -642,8 +672,8 @@ TextureImporter:
       name: DumbCat_Win-pre-07
       rect:
         serializedVersion: 2
-        x: 1468
-        y: 1710
+        x: 535
+        y: 772
         width: 195
         height: 208
       alignment: 7
@@ -656,8 +686,8 @@ TextureImporter:
       name: DumbCat_Win-pre-08
       rect:
         serializedVersion: 2
-        x: 1074
-        y: 1710
+        x: 655
+        y: 1834
         width: 195
         height: 208
       alignment: 7
@@ -670,8 +700,8 @@ TextureImporter:
       name: DumbCat_Win-pre-09
       rect:
         serializedVersion: 2
-        x: 877
-        y: 1710
+        x: 655
+        y: 1624
         width: 195
         height: 208
       alignment: 7
@@ -684,8 +714,8 @@ TextureImporter:
       name: DumbCat_Win00
       rect:
         serializedVersion: 2
-        x: 557
-        y: 1920
+        x: 732
+        y: 684
         width: 157
         height: 122
       alignment: 7
@@ -698,8 +728,8 @@ TextureImporter:
       name: DumbCat_Win01
       rect:
         serializedVersion: 2
-        x: 875
-        y: 1920
+        x: 891
+        y: 684
         width: 157
         height: 122
       alignment: 7
@@ -712,8 +742,8 @@ TextureImporter:
       name: DumbCat_Win02
       rect:
         serializedVersion: 2
-        x: 398
-        y: 1920
+        x: 1050
+        y: 696
         width: 157
         height: 122
       alignment: 7
@@ -726,8 +756,8 @@ TextureImporter:
       name: DumbCat_Win03
       rect:
         serializedVersion: 2
-        x: 1034
-        y: 1920
+        x: 1533
+        y: 1716
         width: 157
         height: 122
       alignment: 7
@@ -740,7 +770,7 @@ TextureImporter:
       name: DumbCat_Win04
       rect:
         serializedVersion: 2
-        x: 716
+        x: 1760
         y: 1920
         width: 157
         height: 122
@@ -754,7 +784,7 @@ TextureImporter:
       name: DumbCat_Win05
       rect:
         serializedVersion: 2
-        x: 165
+        x: 1760
         y: 1796
         width: 157
         height: 122
@@ -768,8 +798,8 @@ TextureImporter:
       name: DumbCat_Win06
       rect:
         serializedVersion: 2
-        x: 6
-        y: 1796
+        x: 1692
+        y: 1672
         width: 157
         height: 122
       alignment: 7
@@ -782,8 +812,8 @@ TextureImporter:
       name: DumbCat_Win07
       rect:
         serializedVersion: 2
-        x: 324
-        y: 1796
+        x: 1851
+        y: 1672
         width: 157
         height: 122
       alignment: 7
@@ -796,8 +826,8 @@ TextureImporter:
       name: DumbCat_Win08
       rect:
         serializedVersion: 2
-        x: 1829
-        y: 1920
+        x: 1137
+        y: 572
         width: 157
         height: 122
       alignment: 7
@@ -810,8 +840,8 @@ TextureImporter:
       name: DumbCat_Win09
       rect:
         serializedVersion: 2
-        x: 1511
-        y: 1920
+        x: 1209
+        y: 696
         width: 157
         height: 122
       alignment: 7
@@ -824,8 +854,8 @@ TextureImporter:
       name: DumbCat_Win10
       rect:
         serializedVersion: 2
-        x: 1670
-        y: 1920
+        x: 1137
+        y: 448
         width: 157
         height: 122
       alignment: 7
@@ -838,8 +868,8 @@ TextureImporter:
       name: DumbCat_Win11
       rect:
         serializedVersion: 2
-        x: 1352
-        y: 1920
+        x: 1137
+        y: 324
         width: 157
         height: 122
       alignment: 7
@@ -852,8 +882,8 @@ TextureImporter:
       name: DumbCat_Win12
       rect:
         serializedVersion: 2
-        x: 1193
-        y: 1920
+        x: 1218
+        y: 200
         width: 157
         height: 122
       alignment: 7

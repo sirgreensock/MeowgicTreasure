@@ -1,0 +1,15 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:437d427573d67399ab90d8fc99192019:7eccdd22af9dc82fd08bd4dc66b7c8c3:6f96be165d79c337d70b5dffe54763c9$
+#
+:format=40300
+:texture=emojitest.png
+:size=64x64
+:pivotpoints=enabled
+:borders=disabled
+
+HELP-emoji-meowgic;1;12;38;51; 0.5131578947368421;0.5196078431372548; 0;0;0;0; 7;38;41;38;7;21;0;6;7;0;20;7;47;13;51; 5;0;5;6;3;1;2;3;4;1;0;1;4;0;4;5

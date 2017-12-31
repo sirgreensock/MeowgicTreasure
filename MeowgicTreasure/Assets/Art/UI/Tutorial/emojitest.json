@@ -1,0 +1,21 @@
+{"frames": [
+
+{
+	"filename": "HELP-emoji-meowgic.png",
+	"frame": {"x":1,"y":1,"w":36,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":4,"w":36,"h":46},
+	"sourceSize": {"w":41,"h":53},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "emojitest.png",
+	"format": "RGBA8888",
+	"size": {"w":38,"h":48},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4e2492c85fb5d7d60559dc3fb51dc7a4:7eccdd22af9dc82fd08bd4dc66b7c8c3:97d6d7f66fb36912e6cf7479443a4aa0$"
+}
+}

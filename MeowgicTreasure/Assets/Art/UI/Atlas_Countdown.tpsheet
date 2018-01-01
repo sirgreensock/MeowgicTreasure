@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:313cb02a7adcde3958ef4a93ce0a123f:5fb7aa7af6ab485752504988073c42fd:b910d95d67fc78e2a92a9bd351fc62f4$
+#
+:format=40300
+:texture=Atlas_Countdown.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+
+GameCountdown-bggradient;1;1256;1678;791; 0.5;0.5; 0;0;0;0
+GameCountdown-Cat-exit01;1;971;541;283; 0.5;0.5; 0;0;0;0
+GameCountdown-Cat-exit02;1;686;541;283; 0.5;0.5; 0;0;0;0
+GameCountdown-Cat-exit03;1;401;541;283; 0.5;0.5; 0;0;0;0
+GameCountdown-Cat01;1;116;541;283; 0.5;0.5; 0;0;0;0
+GameCountdown-Cat02;544;971;541;283; 0.5;0.5; 0;0;0;0
+GameCountdown-Cat03;1087;971;541;283; 0.5;0.5; 0;0;0;0
+GameCountdown-Cat04;544;686;541;283; 0.5;0.5; 0;0;0;0
+GameCountdown-Cat05;544;401;541;283; 0.5;0.5; 0;0;0;0

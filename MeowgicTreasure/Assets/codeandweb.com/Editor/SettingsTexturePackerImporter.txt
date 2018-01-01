@@ -7,6 +7,7 @@ tpsheetFileNames:
 - Assets/Art/Characters/Mischievous Cat/GoldAtlas.tpsheet
 - Assets/Art/Characters/Mischievous Cat/MischievousCat_Atlas.tpsheet
 - Assets/Art/Environments/Atlas_Orbs.tpsheet
+- Assets/Art/UI/Atlas_Countdown.tpsheet
 - Assets/Art/UI/Atlas_Scorebar.tpsheet
 - Assets/Art/UI/Letters/Atlas_Letters.tpsheet
 - Assets/Art/UI/Tutorial/Atlas_Tutorial.tpsheet
@@ -19,12 +20,14 @@ textureFileNames:
 - Assets/Art/Characters/Mischievous Cat/GoldAtlas.png
 - Assets/Art/Characters/Mischievous Cat/MischievousCat_Atlas.png
 - Assets/Art/Environments/Atlas_Orbs.png
+- Assets/Art/UI/Atlas_Countdown.png
 - Assets/Art/UI/Atlas_Scorebar.png
 - Assets/Art/UI/Letters/Atlas_Letters.png
 - Assets/Art/UI/Tutorial/Atlas_Tutorial.png
 - Assets/Art/UI/Tutorial/emojitest.png
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
 normalmapFileNames:
+- 
 - 
 - 
 - 

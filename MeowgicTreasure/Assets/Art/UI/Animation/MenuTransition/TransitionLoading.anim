@@ -21,7 +21,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 2
         time: 0
-        value: 800
+        value: 1000
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -39,7 +39,7 @@ AnimationClip:
         tangentMode: 136
       - serializedVersion: 2
         time: 0.8333333
-        value: 800
+        value: 1000
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -55,7 +55,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 2
         time: 0
-        value: -800
+        value: -1000
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -73,7 +73,7 @@ AnimationClip:
         tangentMode: 136
       - serializedVersion: 2
         time: 0.8333333
-        value: -800
+        value: -1000
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -133,7 +133,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 2
         time: 0
-        value: 800
+        value: 1000
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -151,7 +151,7 @@ AnimationClip:
         tangentMode: 136
       - serializedVersion: 2
         time: 0.8333333
-        value: 800
+        value: 1000
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -167,7 +167,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 2
         time: 0
-        value: -800
+        value: -1000
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -185,7 +185,7 @@ AnimationClip:
         tangentMode: 136
       - serializedVersion: 2
         time: 0.8333333
-        value: -800
+        value: -1000
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -201,7 +201,7 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_GenerateMotionCurves: 0
   m_Events:
-  - time: 0.33333334
+  - time: 0.25
     functionName: SendEvent
     data: TransitionLoading
     objectReferenceParameter: {fileID: 0}

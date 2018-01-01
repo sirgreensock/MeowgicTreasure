@@ -283,3 +283,7 @@ MonoBehaviour:
   - CatTwoSelected
   - CatThreeSelected
   - RecordSprite
+  - AdventureCatWins
+  - DumbCatWins
+  - HistorianCatWins
+  - MischievousCatWins
